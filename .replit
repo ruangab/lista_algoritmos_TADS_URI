@@ -1,2 +1,2 @@
 language = "c"
-run = "gcc atividades/q7.c -o mp.exe; ./mp.exe"
+run = "gcc avaliacao_03/q13.c -o mp.exe; ./mp.exe"
